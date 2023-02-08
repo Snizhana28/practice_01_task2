@@ -16,4 +16,9 @@
       <Filter>Point</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Point.h">
+      <Filter>Point</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
